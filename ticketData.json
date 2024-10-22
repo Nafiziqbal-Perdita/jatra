@@ -1,0 +1,842 @@
+[
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "5:00 AM",
+    "seats": "32 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Maleker Bari",
+    "start_time": "5:30 AM",
+    "seats": "28 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Saydabad 1",
+    "start_time": "05:30 AM",
+    "seats": "36 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "RAINKHOLA MIRPUR COUNTER",
+    "start_time": "5:40 AM",
+    "seats": "31 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "WELCOME EXPRESS",
+    "type": "Non AC",
+    "starting_point": "Kocukhet",
+    "start_time": "5:40 AM",
+    "seats": "8 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "ROYAL PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "mirpur Kochukhet",
+    "start_time": "5:45 AM",
+    "seats": "4 Seats Available",
+    "money": "N/A"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "5:45 AM",
+    "seats": "14 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Nabinagar",
+    "start_time": "6:00 AM",
+    "seats": "15 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "6:00 AM",
+    "seats": "33 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Saydabad B 10",
+    "start_time": "06:00 AM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "RAINKHOLA MIRPUR COUNTER",
+    "start_time": "6:15 AM",
+    "seats": "13 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "RAINKHOLA COUNTER",
+    "start_time": "6:15 AM",
+    "seats": "20 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "6:15 AM",
+    "seats": "36 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "6:15 AM",
+    "seats": "11 Seats Available",
+    "money": "৳600.00"
+  },
+  {
+    "name": "SONARTORI PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Raenkhula ( Commerce college)",
+    "start_time": "6:15 AM",
+    "seats": "17 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Ac",
+    "starting_point": "Saydabad",
+    "start_time": "6:30 AM",
+    "seats": "29 Seats Available",
+    "money": "৳700.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "RAINKHOLA MIRPUR COUNTER",
+    "start_time": "6:30 AM",
+    "seats": "23 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
+    "type": "AC",
+    "starting_point": "PANTHAPATH",
+    "start_time": "06:30 AM",
+    "seats": "9 Seats Available",
+    "money": "৳1200.0"
+  },
+  {
+    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
+    "type": "AC",
+    "starting_point": "ABDULLAHPUR",
+    "start_time": "06:30 AM",
+    "seats": "12 Seats Available",
+    "money": "৳1200.0"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "6:45 AM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "EURO COACH",
+    "type": "Ac",
+    "starting_point": "Abdullahpur",
+    "start_time": "6:45 AM",
+    "seats": "32 Seats Available",
+    "money": "৳800.00"
+  },
+  {
+    "name": "GREEN LINE",
+    "type": "AC",
+    "starting_point": "Arambagh-4",
+    "start_time": "06:45 AM",
+    "seats": "N/A",
+    "money": "৳1200.00"
+  },
+  {
+    "name": "GREEN LINE",
+    "type": "AC",
+    "starting_point": "Arambagh-4",
+    "start_time": "06:50 AM",
+    "seats": "N/A",
+    "money": "৳850.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "7:00 AM",
+    "seats": "15 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Maleker Bari",
+    "start_time": "7:00 AM",
+    "seats": "25 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "ISLAM PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Rainkhola",
+    "start_time": "7:00 AM",
+    "seats": "17 Seats Available",
+    "money": "৳700.00"
+  },
+  {
+    "name": "NOBEL PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Shibbari",
+    "start_time": "7:00 AM",
+    "seats": "38 Seats Available",
+    "money": "৳550.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Abdullahpur",
+    "start_time": "07:00 AM",
+    "seats": "34 Seats Available",
+    "money": "৳600.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Gulistan Bus point",
+    "start_time": "07:00 AM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Saydabad B 9",
+    "start_time": "07:00 AM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad",
+    "start_time": "7:15 AM",
+    "seats": "32 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SONARTORI PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Raenkhula ( Commerce college)",
+    "start_time": "7:15 AM",
+    "seats": "18 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Abdullapur",
+    "start_time": "7:30 AM",
+    "seats": "31 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
+    "type": "AC",
+    "starting_point": "ABDULLAHPUR",
+    "start_time": "07:30 AM",
+    "seats": "12 Seats Available",
+    "money": "৳1200.0"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad",
+    "start_time": "7:31 AM",
+    "seats": "34 Seats Available",
+    "money": "N/A"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "7:45 AM",
+    "seats": "22 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "ISLAM PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Rainkhola",
+    "start_time": "8:00 AM",
+    "seats": "23 Seats Available",
+    "money": "৳700.00"
+  },
+  {
+    "name": "GREEN LINE",
+    "type": "AC",
+    "starting_point": "Arambagh-4",
+    "start_time": "08:00 AM",
+    "seats": "N/A",
+    "money": "৳1200.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "8:15 AM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "8:30 AM",
+    "seats": "29 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad",
+    "start_time": "8:31 AM",
+    "seats": "35 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "9:00 AM",
+    "seats": "34 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "9:30 AM",
+    "seats": "19 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "9:45 AM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "10:01 AM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "GREEN LINE",
+    "type": "AC",
+    "starting_point": "Arambagh-4",
+    "start_time": "10:30 AM",
+    "seats": "N/A",
+    "money": "৳1200.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "10:31 AM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "11:15 AM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "11:30 AM",
+    "seats": "40 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
+    "type": "AC",
+    "starting_point": "MALIBAGH",
+    "start_time": "11:30 AM",
+    "seats": "12 Seats Available",
+    "money": "৳1200.0"
+  },
+  {
+    "name": "GREEN LINE",
+    "type": "AC",
+    "starting_point": "Arambagh-4",
+    "start_time": "12:05 PM",
+    "seats": "N/A",
+    "money": "৳850.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Ac",
+    "starting_point": "Saydabad",
+    "start_time": "12:15 PM",
+    "seats": "36 Seats Available",
+    "money": "৳700.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "FP-01 No",
+    "start_time": "12:30 PM",
+    "seats": "36 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "1:15 PM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "1:45 PM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "2:00 PM",
+    "seats": "38 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SHANTI PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Bhatapara",
+    "start_time": "2:00 PM",
+    "seats": "28 Seats Available",
+    "money": "N/A"
+  },
+  {
+    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
+    "type": "AC",
+    "starting_point": "MALIBAGH",
+    "start_time": "02:00 PM",
+    "seats": "12 Seats Available",
+    "money": "৳1200.0"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Maleker Bari",
+    "start_time": "2:30 PM",
+    "seats": "26 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "GREEN LINE",
+    "type": "AC",
+    "starting_point": "Arambagh-4",
+    "start_time": "02:30 PM",
+    "seats": "N/A",
+    "money": "৳1200.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "3:01 PM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad",
+    "start_time": "3:15 PM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "FP-01 No",
+    "start_time": "3:30 PM",
+    "seats": "39 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad",
+    "start_time": "4:01 PM",
+    "seats": "39 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "4:30 PM",
+    "seats": "40 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "GREEN LINE",
+    "type": "AC",
+    "starting_point": "Arambagh-4",
+    "start_time": "04:30 PM",
+    "seats": "N/A",
+    "money": "৳1200.00"
+  },
+  {
+    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
+    "type": "AC",
+    "starting_point": "MALIBAGH",
+    "start_time": "04:30 PM",
+    "seats": "12 Seats Available",
+    "money": "৳1200.0"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Abdullapur",
+    "start_time": "5:00 PM",
+    "seats": "36 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad",
+    "start_time": "5:30 PM",
+    "seats": "38 Seats Available",
+    "money": "N/A"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "5:45 PM",
+    "seats": "36 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "GREEN LINE",
+    "type": "AC",
+    "starting_point": "Arambagh-4",
+    "start_time": "06:00 PM",
+    "seats": "N/A",
+    "money": "৳850.00"
+  },
+  {
+    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
+    "type": "AC",
+    "starting_point": "MALIBAGH",
+    "start_time": "06:00 PM",
+    "seats": "12 Seats Available",
+    "money": "৳1200.0"
+  },
+  {
+    "name": "ISLAM PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Nabinagar-1",
+    "start_time": "6:30 PM",
+    "seats": "26 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "6:31 PM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "7:01 PM",
+    "seats": "38 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
+    "type": "AC",
+    "starting_point": "MALIBAGH",
+    "start_time": "07:15 PM",
+    "seats": "12 Seats Available",
+    "money": "৳1200.0"
+  },
+  {
+    "name": "ISLAM PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Nabinagar-1",
+    "start_time": "7:30 PM",
+    "seats": "28 Seats Available",
+    "money": "৳700.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "8:00 PM",
+    "seats": "40 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "NOBEL PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Shibbari",
+    "start_time": "8:00 PM",
+    "seats": "38 Seats Available",
+    "money": "৳600.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "8:01 PM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "8:30 PM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "9:00 PM",
+    "seats": "29 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SONARTORI PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Raenkhula ( Commerce college)",
+    "start_time": "9:00 PM",
+    "seats": "29 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Maleker Bari",
+    "start_time": "9:01 PM",
+    "seats": "36 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "9:15 PM",
+    "seats": "38 Seats Available",
+    "money": "৳600.00"
+  },
+  {
+    "name": "SONARTORI PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Nabinagar",
+    "start_time": "9:15 PM",
+    "seats": "41 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Abdullapur",
+    "start_time": "9:30 PM",
+    "seats": "35 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SONARTORI PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Nabinagar",
+    "start_time": "9:30 PM",
+    "seats": "17 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "EURO COACH",
+    "type": "Ac",
+    "starting_point": "Abdullahpur",
+    "start_time": "9:45 PM",
+    "seats": "20 Seats Available",
+    "money": "৳800.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "RAINKHOLA MIRPUR COUNTER",
+    "start_time": "9:45 PM",
+    "seats": "36 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Ac",
+    "starting_point": "Saydabad",
+    "start_time": "9:45 PM",
+    "seats": "36 Seats Available",
+    "money": "৳700.00"
+  },
+  {
+    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
+    "type": "AC",
+    "starting_point": "MALIBAGH",
+    "start_time": "09:45 PM",
+    "seats": "12 Seats Available",
+    "money": "৳1200.0"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "10:00 PM",
+    "seats": "39 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "RAINKHOLA MIRPUR COUNTER",
+    "start_time": "10:00 PM",
+    "seats": "32 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "EURO COACH",
+    "type": "Ac",
+    "starting_point": "Abdullahpur",
+    "start_time": "10:00 PM",
+    "seats": "26 Seats Available",
+    "money": "৳1000.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "10:01 PM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Nabinagar",
+    "start_time": "10:15 PM",
+    "seats": "33 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "10:15 PM",
+    "seats": "40 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "EURO COACH",
+    "type": "Ac",
+    "starting_point": "Abdullahpur",
+    "start_time": "10:30 PM",
+    "seats": "16 Seats Available",
+    "money": "৳800.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "10:45 PM",
+    "seats": "32 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "RAINKHOLA COUNTER",
+    "start_time": "10:45 PM",
+    "seats": "36 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Saydabad Terminal -1",
+    "start_time": "10:45 PM",
+    "seats": "40 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Abdullapur",
+    "start_time": "11:00 PM",
+    "seats": "36 Seats Available",
+    "money": "৳500.00"
+  },
+  {
+    "name": "SAKURA PARIBAHAN",
+    "type": "Non AC",
+    "starting_point": "Technical",
+    "start_time": "11:15 PM",
+    "seats": "40 Seats Available",
+    "money": "৳650.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "RAINKHOLA COUNTER",
+    "start_time": "11:55 PM",
+    "seats": "34 Seats Available",
+    "money": "৳500.00"
+  }
+]
