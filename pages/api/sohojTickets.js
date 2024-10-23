@@ -1,6 +1,6 @@
-import puppeteer from "puppeteer";
+import puppeteer from "puppeteer-core";
 import randomUseragent from "random-useragent";
-
+import chromium from "chrome-aws-lambda";
 const sohojTickets = async (fromL, toL, year, monthN, day) => {
   // Array of month names (index 0 is January, 11 is December)
   const monthNames = [
@@ -26,11 +26,33 @@ const sohojTickets = async (fromL, toL, year, monthN, day) => {
   const to = capitalize(toL);
   const from = capitalize(fromL);
 
-  const browser = await puppeteer.launch({
-    headless: false,
-    defaultViewport: null,
-    args: ["--start-maximized"],
-  });
+  
+
+
+  let browser;
+
+  // Check if running in production (Vercel) or locally
+  if (process.env.AWS_LAMBDA_FUNCTION_VERSION) {
+    // Running on Vercel (AWS Lambda environment)
+    browser = await puppeteer.launch({
+      defaultViewport: chromium.defaultViewport,
+      args: [...chromium.args, "--start-maximized"],
+      executablePath: await chromium.executablePath,
+      headless: chromium.headless,
+    });
+  } else {
+    // Running locally
+    browser = await puppeteer.launch({
+      headless: false, // You can set this to true if you want to run headless locally
+      args: ["--start-maximized"],
+      executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", // Adjust this path based on your local Chrome installation
+    });
+  }
+
+
+
+
+
 
   const page = await browser.newPage();
   const userAgent = randomUseragent.getRandom();
