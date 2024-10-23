@@ -158,9 +158,10 @@ export default function HomeUI() {
         </div>
 
         <div className="space-x-2 bg-gray-100 px-5 py-3 rounded-md">
-          <Button type="submit">Submit</Button>
+          <Button type="submit">Submitt</Button>
         </div>
       </form>
     </div>
   );
 }
+// app/HomeUI.jsx 

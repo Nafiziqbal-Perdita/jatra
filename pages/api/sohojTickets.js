@@ -61,3 +61,4 @@ const sohojTickets = async (fromL, toL, year, monthN, day) => {
 };
 
 export default sohojTickets;
+// pages/api/sohojTickets.js 

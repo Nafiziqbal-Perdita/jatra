@@ -53,3 +53,4 @@ const bdtickets = async (from, to, year, month, day) => {
 };
 
 export default bdtickets;
+// pages/api/bdtickets.js 
