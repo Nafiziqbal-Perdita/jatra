@@ -12,18 +12,25 @@ export default async function handler(req, res) {
 
     try {
       // Use Promise.all to call both functions concurrently
-      const [sohojResult, bdTicketResult] = await Promise.all([
-        sohojTickets(from.toLowerCase(), to.toLowerCase(), year, month, day),
-        bdtickets(from.toLowerCase(), to.toLowerCase(), year, month, day),
-      ]);
+      // const [sohojResult, bdTicketResult] = await Promise.all([
+      //   sohojTickets(from.toLowerCase(), to.toLowerCase(), year, month, day),
+      //   bdtickets(from.toLowerCase(), to.toLowerCase(), year, month, day),
+      // ]);
 
-      const combinedResult = [...bdTicketResult, ...sohojResult];
-      console.log("Scraped Data:", combinedResult); // Log the scraped data
+
+
+      // const combinedResult = [...bdTicketResult, ...sohojResult];
+      // console.log("Scraped Data:", combinedResult); // Log the scraped data
+
+      const result = await bdtickets(from.toLowerCase(), to.toLowerCase(), year, month, day);
+
+
+
 
       // Respond with a success message and the result
       res.status(200).json({
         message: "Form submitted successfully!",
-        data: combinedResult,
+        data: result,
         from,
         to,
         date,
