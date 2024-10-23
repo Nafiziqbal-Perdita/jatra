@@ -1,5 +1,5 @@
 import sohojTickets from "./sohojTickets";
-import bdtickets from "./bdtickets";
+import bdtickets from "./bdTickets";
 
 export default async function handler(req, res) {
   console.log("Received request:", req.method, req.body); // Log the request method and body
