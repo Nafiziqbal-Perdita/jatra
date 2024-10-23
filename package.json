@@ -7,7 +7,8 @@
     "build": "npx playwright install && next build",
     "start": "next start",
     "lint": "next lint",
-    "postinstall": "npx playwright install"
+    "postinstall": "npx playwright install",
+    "install-deps": "npx playwright install-deps" 
   },
   "dependencies": {
     "@playwright/test": "^1.48.1",
