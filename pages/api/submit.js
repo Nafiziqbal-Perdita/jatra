@@ -1,5 +1,5 @@
-import bdtickets from "../scrape/bdTickets";
-import sohojTickets from "../scrape/sohojTickets";
+import bdtickets from "./bdTickets";
+import sohojTickets from "./sohojTickets";
 
 export default async function handler(req, res) {
   if (req.method === "POST") {
