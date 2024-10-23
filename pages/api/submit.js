@@ -1,3 +1,7 @@
+// pages/api/yourApi.js
+
+import { exec } from 'child_process';
+import path from 'path';
 import sohojTickets from "./sohojTickets";
 import bdtickets from "./bdTickets";
 
@@ -10,33 +14,24 @@ export default async function handler(req, res) {
     // Split the date into year, month, and day
     const [year, month, day] = date.split("-");
 
+    const pythonScriptPath = path.join(process.cwd(), './worker.py'); // Path to your Python script
+    console.log(pythonScriptPath);
+
     try {
-      // Use Promise.all to call both functions concurrently
-      // const [sohojResult, bdTicketResult] = await Promise.all([
-      //   sohojTickets(from.toLowerCase(), to.toLowerCase(), year, month, day),
-      //   bdtickets(from.toLowerCase(), to.toLowerCase(), year, month, day),
-      // ]);
+      // Execute the Python script
+      exec(`python ${pythonScriptPath}`, (error, stdout, stderr) => {
+        if (error) {
+          console.error(`Error executing Python script: ${error.message}`);
+          return res.status(500).json({ message: "Failed to run Python script", error: error.message });
+        }
 
+        if (stderr) {
+          console.error(`Python error: ${stderr}`);
+          return res.status(500).json({ message: "Error in Python script", error: stderr });
+        }
 
-
-      // const combinedResult = [...bdTicketResult, ...sohojResult];
-      // console.log("Scraped Data:", combinedResult); // Log the scraped data
-
-      const result = await bdtickets(from.toLowerCase(), to.toLowerCase(), year, month, day);
-
-
-
-
-      // Respond with a success message and the result
-      res.status(200).json({
-        message: "Form submitted successfully!",
-        data: result,
-        from,
-        to,
-        date,
-        year,
-        month,
-        day,
+        // Send the output from the Python script back to the frontend
+        res.status(200).json({ message: stdout.trim() }); // trim() to remove any extra newline characters
       });
     } catch (error) {
       console.error("Error processing data:", error);
