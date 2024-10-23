@@ -35,7 +35,7 @@ const sohojTickets = async (fromL, toL, year, monthN, day) => {
   if (process.env.AWS_LAMBDA_FUNCTION_VERSION) {
     // Running on Vercel (AWS Lambda environment)
     browser = await puppeteer.launch({
-      defaultViewport: chromium.defaultViewport,
+      defaultViewport: null,
       args: [...chromium.args, "--start-maximized"],
       executablePath: await chromium.executablePath,
       headless: chromium.headless,
@@ -43,6 +43,7 @@ const sohojTickets = async (fromL, toL, year, monthN, day) => {
   } else {
     // Running locally
     browser = await puppeteer.launch({
+      defaultViewport: null,
       headless: false, // You can set this to true if you want to run headless locally
       args: ["--start-maximized"],
       executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", // Adjust this path based on your local Chrome installation
